@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard — AI-Powered Phishing & Scam Threat Analyzer",
+  "description": "Explainable phishing, fraud, and scam detection tool combining lexical URL parsing, NLP heuristics, and ML text classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
